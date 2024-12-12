@@ -1,3 +1,8 @@
+---
+layout: index
+title: Home
+---
+
 # Hello
 
 Test
