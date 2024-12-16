@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rules.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rules"
+              "title": "index"
             }
           },
           {
@@ -188,9 +188,9 @@
   },
   "active": "3a43cdb878abc42c",
   "lastOpenFiles": [
+    "rules.md",
     "character-creation.md",
     "gear.md",
-    "rules.md",
     "briefing.md",
     "timeline.md",
     "miracles.md",
