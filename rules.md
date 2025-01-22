@@ -2,6 +2,7 @@
 layout: page
 title: Rules
 sidebar_link: true
+sidebar_sort_order: "2"
 ---
 ## Stats
 Operators have four stats:

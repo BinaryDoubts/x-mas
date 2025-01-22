@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "scenario.md",
+                "file": "about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "scenario"
+              "title": "about"
             }
           },
           {
@@ -231,13 +231,13 @@
   },
   "active": "32aabe07d6c512d0",
   "lastOpenFiles": [
-    "rules.md",
-    "gear.md",
-    "index.md",
     "scenario.md",
     "timeline.md",
+    "gear.md",
     "character-creation.md",
+    "rules.md",
     "about.md",
+    "index.md",
     "Untitled.md",
     "briefing.md",
     "miracles.md",

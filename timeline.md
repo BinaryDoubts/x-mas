@@ -2,6 +2,7 @@
 layout: page
 title: Timeline
 sidebar_link: true
+sidebar_sort_order: "5"
 ---
 ## Timeline of Events Leading Up to RED SLED DOWN
 - 1142 - Norwegian settlers discover a remote island off the coast of modern-day Iceland in the Arctic Ocean. It is named Danskfjord, or "Suicide Cliffs." Locals avoid the island, fearing it to be cursed.

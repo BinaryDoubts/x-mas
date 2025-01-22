@@ -2,6 +2,7 @@
 layout: page
 title: Character Creation
 sidebar_link: true
+sidebar_sort_order: "3"
 ---
 # Enlisting an Operator
 M.A.S. Operators are the best of the best when it comes to full-spectrum holiday warfare. Follow the steps below to create your own elite defender of Christmas. *Sorry, no character sheets. Use a notepad or Notepad to record your stats and gear, just like our forefathers did.*

@@ -2,6 +2,7 @@
 sidebar_link: true
 layout: page
 title: "Scenario: RED SLED DOWN"
+sidebar_sort_order: "6"
 ---
 {% include admonition.html type="bell" title="Classified" body="This page contains the outline for an X-M.A.S. one-shot scenario: RED SLED DOWN. I recommend sending the briefing below to your players before beginning to help get them in the right headspace." %}
 ## Briefing

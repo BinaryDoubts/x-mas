@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: index
 sidebar_link: true
-title: About
+title: Introduction
+sidebar_sort_order: "1"
 ---
 ## What Is This?
 X-M.A.S. is a fast-paced action-movie roleplaying game about a team of elite Christmas operatives on a deadly mission to save Santa. Based on the FIST system, X-M.A.S. is optimized for quick play and merriment at your table. It's designed to be used alongside the [RED SLED DOWN](/scenario) one-shot adventure, although the core rules can be used to play out any high-octane action story... as long as it's at least a little bit about saving Christmas.

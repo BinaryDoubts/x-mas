@@ -2,6 +2,7 @@
 layout: page
 title: Gear
 sidebar_link: true
+sidebar_sort_order: "4"
 ---
 ## Primary
 
