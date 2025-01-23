@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "gear.md",
+                "file": "character-creation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "gear"
+              "title": "character-creation"
             }
           },
           {
@@ -231,15 +231,15 @@
   },
   "active": "32aabe07d6c512d0",
   "lastOpenFiles": [
-    "character-creation.md",
-    "index.md",
-    "x-mas/scenario.md",
-    "x-mas",
-    "README.md",
-    "rules.md",
     "gear.md",
+    "README.md",
+    "index.md",
+    "rules.md",
     "timeline.md",
     "scenario.md",
+    "character-creation.md",
+    "x-mas/scenario.md",
+    "x-mas",
     "index.html",
     "Untitled.md",
     "briefing.md",

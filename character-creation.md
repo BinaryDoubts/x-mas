@@ -60,7 +60,7 @@ To create a new operator, start by choosing a Type of Guy from the list below, o
 	* Heavy Weapons
 	* Christmas Magic
 * Give your operator a name and cool callsign, then figure out their general vibe.
-* Pick one Primary, one Secondary, and one Heavy weapon from the [gear section](gear). You also begin with body armour and standard tactical gear (knife, trauma kit, holsters/bandoliers, keepsake from a loved one, etc.)
+* Pick one Primary, one Secondary, and one Heavy weapon from the [gear section](/x-mas/gear). You also begin with body armour and standard tactical gear (knife, trauma kit, holsters/bandoliers, keepsake from a loved one, etc.)
 * Note down your 10 empty Wound boxes and 3 starting Christmas Spirit.
 
 ## What You're Up To

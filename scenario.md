@@ -56,6 +56,7 @@ If we fail, Christmas may never be the same again. Consider this my official com
 	- Several two-person squads of grunts patrol the shadowed plant floor
 	- A GRINCH squad captain, Aloysius "Coalman" Smow, plays cards with two grunts at an improvised command post set up in the middle of the plant, pushed up against a chemical vat stamped "GLITTER/ASBESTOS DISPOSAL." He carries the keycard needed to unlock the exit.
 	- A vat gets winged by a bullet - start a 4-segment clock to track the room filling with poisonous gas. Once saturated, breathing becomes painful and the room will explode at the next spark.
+
 ### Downhill Jam
 * Outside the facility is an overgrown Christmas tree farm. Assuming the squad aren't still in a gunfight, give them a chance to catch their breath, interrogate any prisoners, and then ready up to descend the mountain.
 * As they prepare to leave, Darrow J. Vanderhoof IV turns on the island-wide system of tannoy speakers and addresses the players (use your best phlegmy old man voice):
