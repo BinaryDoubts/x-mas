@@ -11,6 +11,7 @@ X-M.A.S. is a fast-paced action-movie roleplaying game about a team of elite Chr
 Check out [character creation](/x-mas/character-creation) to make your own M.A.S. operator, or read the [rules](/x-mas/rules) to learn how to play. If you're running the game, you might also want to read the [adventure](/x-mas/scenario) and peek at the [timeline of events](/x-mas/timeline) leading up to the adventure's start.
 ## Credits
 X-M.A.S. design and writing by Eric Stewart
+
 Published by Quiet Static
 
 Mechanics based in large part on [FIST: Ultra Edition](https://claymorerpgs.itch.io/fist), CC BY CLAYMORE
