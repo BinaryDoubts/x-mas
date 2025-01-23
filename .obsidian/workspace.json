@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "gear.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "gear"
             }
           },
           {
@@ -231,11 +231,13 @@
   },
   "active": "32aabe07d6c512d0",
   "lastOpenFiles": [
+    "character-creation.md",
+    "index.md",
+    "x-mas/scenario.md",
+    "x-mas",
     "README.md",
     "rules.md",
-    "character-creation.md",
     "gear.md",
-    "index.md",
     "timeline.md",
     "scenario.md",
     "index.html",
@@ -253,7 +255,6 @@
     "_site/assets/img/icons",
     "_site/assets/img",
     "_site/licenses.html",
-    "_site/Untitled.html",
     "assets/img/icons/bell.svg",
     "assets/img/icons/bells-jingle-holiday-svgrepo-com.svg",
     "_site/scenario.md",
